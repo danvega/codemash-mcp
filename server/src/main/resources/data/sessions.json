@@ -1,0 +1,490 @@
+{
+  "conference": {
+    "name": "2026 CodeMash Conference",
+    "year": 2026,
+    "dates": [
+      "2026-01-13",
+      "2026-01-14",
+      "2026-01-15",
+      "2026-01-16"
+    ],
+    "location": "Sandusky, United States",
+    "tracks": [
+      "Meals & Entertainment",
+      "Programming Principles",
+      "AI/ML",
+      "Teams & Collaboration",
+      "Architecture",
+      "DevOps",
+      "Hardware/IoT",
+      "Security",
+      "Makerspace",
+      "KidzMash Sessionz",
+      "KidzMash Divez",
+      "Mobile",
+      "Web/Front-End",
+      "Career Development",
+      "Databases",
+      "Software Quality",
+      "Design (UI/UX/CSS/a11y)",
+      "Sponsors"
+    ],
+    "rooms": [
+      "Kilimanjaro",
+      "Salon E",
+      "Indigo Bay",
+      "Nile",
+      "Orange",
+      "Cypress",
+      "Salon D",
+      "Salon H",
+      "Salon A",
+      "Crown Palm",
+      "Guava/Tamarind",
+      "Ironwood",
+      "Wisteria",
+      "Zambezi",
+      "Salon C",
+      "Grand Hall",
+      "Aloeswood / Leopardwood",
+      "Banyan",
+      "Atrium",
+      "Salon B",
+      "Waterpark"
+    ],
+    "sessions": [
+      {
+        "day": "2026-01-13",
+        "time": "07:00 AM",
+        "duration": "1h",
+        "title": "Breakfast (Tuesday)",
+        "type": "Meal",
+        "room": "Kilimanjaro",
+        "speakers": [],
+        "track": [
+          "Meals & Entertainment"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "AI for Java Developers",
+        "type": "Workshop",
+        "room": "Salon E",
+        "speakers": [
+          "Dan Vega"
+        ],
+        "track": [
+          "Programming Principles"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Amazing Algorithms Workshop",
+        "type": "Workshop",
+        "room": "Indigo Bay",
+        "speakers": [
+          "Barry Stahl"
+        ],
+        "track": [
+          "Programming Principles"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Distilling Intelligence: Hands-On Fine-Tuning using latest AI models",
+        "type": "Workshop",
+        "room": "Nile",
+        "speakers": [
+          "Lwin Maung",
+          "Min Maung"
+        ],
+        "track": [
+          "AI/ML"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Energize Your Leadership: From Being Stuck to Striving",
+        "type": "Workshop",
+        "room": "Orange",
+        "speakers": [
+          "Pamela Turley"
+        ],
+        "track": [
+          "Teams & Collaboration"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "From Code to Cloud: Building Scalable REST APIs the Right Way",
+        "type": "Workshop",
+        "room": "Cypress",
+        "speakers": [
+          "Chris Woodruff"
+        ],
+        "track": [
+          "Architecture"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Get Started with Generative AI using Python",
+        "type": "Workshop",
+        "room": "Salon D",
+        "speakers": [
+          "Nate Rosidi"
+        ],
+        "track": [
+          "AI/ML"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Hands-on threat modeling: Identify and fix vulnerabilities early",
+        "type": "Workshop",
+        "room": "Salon H",
+        "speakers": [
+          "Jonathan Marcil"
+        ],
+        "track": [
+          "Security"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "How to Automate your (Home) Life",
+        "type": "Workshop",
+        "room": "Salon A",
+        "speakers": [
+          "Cody Seibert"
+        ],
+        "track": [
+          "Hardware/IoT"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Kubernetes for Everyone",
+        "type": "Workshop",
+        "room": "Crown Palm",
+        "speakers": [
+          "JJ Asghar"
+        ],
+        "track": [
+          "DevOps"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "12:00 PM",
+        "duration": "1h",
+        "title": "Lunch (Tuesday)",
+        "type": "Meal",
+        "room": "Kilimanjaro",
+        "speakers": [],
+        "track": [
+          "Meals & Entertainment"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "01:00 PM",
+        "duration": "4h",
+        "title": "Level Up Your AI: Practical RAG and Agents",
+        "type": "Workshop",
+        "room": "Nile",
+        "speakers": [
+          "Lwin Maung",
+          "Min Maung"
+        ],
+        "track": [
+          "AI/ML"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "01:00 PM",
+        "duration": "4h",
+        "title": "The Art of Unit Testing",
+        "type": "Workshop",
+        "room": "Salon H",
+        "speakers": [
+          "Vladimir Khorikov"
+        ],
+        "track": [
+          "Software Quality"
+        ]
+      },
+      {
+        "day": "2026-01-13",
+        "time": "01:00 PM",
+        "duration": "4h",
+        "title": "Web Performance Mastery: Advanced Techniques for Modern Apps",
+        "type": "Workshop",
+        "room": "Indigo Bay",
+        "speakers": [
+          "Todd Gardner"
+        ],
+        "track": [
+          "Web/Front-End"
+        ]
+      },
+      {
+        "day": "2026-01-14",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Building and Deploying a .NET 10 App to Azure",
+        "type": "Workshop",
+        "room": "Salon D",
+        "speakers": [
+          "Scott Sauber"
+        ],
+        "track": [
+          "DevOps"
+        ]
+      },
+      {
+        "day": "2026-01-14",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Coding Effectively with AI",
+        "type": "Workshop",
+        "room": "Indigo Bay",
+        "speakers": [
+          "Cory House"
+        ],
+        "track": [
+          "AI/ML"
+        ]
+      },
+      {
+        "day": "2026-01-14",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Domain Driven Design: The Foundation of Clean Architecture",
+        "type": "Workshop",
+        "room": "Orange",
+        "speakers": [
+          "Steve Smith"
+        ],
+        "track": [
+          "Architecture"
+        ]
+      },
+      {
+        "day": "2026-01-14",
+        "time": "08:00 AM",
+        "duration": "4h",
+        "title": "Ethical Hacking 101: A Hands-on Lab",
+        "type": "Workshop",
+        "room": "Salon H",
+        "speakers": [
+          "Ted Harrington"
+        ],
+        "track": [
+          "Security"
+        ]
+      },
+      {
+        "day": "2026-01-14",
+        "time": "01:00 PM",
+        "duration": "4h",
+        "title": "Mastering Git: Beyond the Basics",
+        "type": "Workshop",
+        "room": "Salon E",
+        "speakers": [
+          "Brent Laster"
+        ],
+        "track": [
+          "Programming Principles"
+        ]
+      },
+      {
+        "day": "2026-01-14",
+        "time": "01:00 PM",
+        "duration": "4h",
+        "title": "React Architecture: Building Scalable Frontends",
+        "type": "Workshop",
+        "room": "Cypress",
+        "speakers": [
+          "Cory House"
+        ],
+        "track": [
+          "Web/Front-End"
+        ]
+      },
+      {
+        "day": "2026-01-15",
+        "time": "08:30 AM",
+        "duration": "1h",
+        "title": "Building the Ultimate Safety Net with Integration Tests",
+        "type": "Talk",
+        "room": "Orange",
+        "speakers": [
+          "Jimmy Bogard"
+        ],
+        "track": [
+          "Software Quality"
+        ]
+      },
+      {
+        "day": "2026-01-15",
+        "time": "08:30 AM",
+        "duration": "1h",
+        "title": "Create multi-platform apps with .NET MAUI",
+        "type": "Talk",
+        "room": "Salon E",
+        "speakers": [
+          "Alvin Ashcraft"
+        ],
+        "track": [
+          "Mobile"
+        ]
+      },
+      {
+        "day": "2026-01-15",
+        "time": "08:30 AM",
+        "duration": "1h",
+        "title": "The Quantum Leap: Introduction to Quantum Computing",
+        "type": "Talk",
+        "room": "Indigo Bay",
+        "speakers": [
+          "Jessica Deen"
+        ],
+        "track": [
+          "Programming Principles"
+        ]
+      },
+      {
+        "day": "2026-01-15",
+        "time": "10:00 AM",
+        "duration": "1h",
+        "title": "Death by a Thousand Microservices",
+        "type": "Talk",
+        "room": "Orange",
+        "speakers": [
+          "Alex Xu"
+        ],
+        "track": [
+          "Architecture"
+        ]
+      },
+      {
+        "day": "2026-01-15",
+        "time": "10:00 AM",
+        "duration": "1h",
+        "title": "Scaling PostgreSQL to Infinity",
+        "type": "Talk",
+        "room": "Salon D",
+        "speakers": [
+          "Claire Giordano"
+        ],
+        "track": [
+          "Databases"
+        ]
+      },
+      {
+        "day": "2026-01-15",
+        "time": "11:30 AM",
+        "duration": "1h",
+        "title": "Closing the Loop: Observability in the Modern Era",
+        "type": "Talk",
+        "room": "Cypress",
+        "speakers": [
+          "Shelby Spees"
+        ],
+        "track": [
+          "DevOps"
+        ]
+      },
+      {
+        "day": "2026-01-15",
+        "time": "01:00 PM",
+        "duration": "1h",
+        "title": "Keynote: The Future of Engineering Culture",
+        "type": "Talk",
+        "room": "Kilimanjaro",
+        "speakers": [
+          "Tanya Reilly"
+        ],
+        "track": [
+          "Career Development"
+        ]
+      },
+      {
+        "day": "2026-01-16",
+        "time": "08:30 AM",
+        "duration": "1h",
+        "title": "Designing for Neurodiversity",
+        "type": "Talk",
+        "room": "Salon A",
+        "speakers": [
+          "Shell Little"
+        ],
+        "track": [
+          "Design (UI/UX/CSS/a11y)"
+        ]
+      },
+      {
+        "day": "2026-01-16",
+        "time": "09:45 AM",
+        "duration": "1h",
+        "title": "Rust for the Curious C# Developer",
+        "type": "Talk",
+        "room": "Indigo Bay",
+        "speakers": [
+          "Brooks Forsyth"
+        ],
+        "track": [
+          "Programming Principles"
+        ]
+      },
+      {
+        "day": "2026-01-16",
+        "time": "11:00 AM",
+        "duration": "1h",
+        "title": "Decision Records: Understanding Why Those Decisions Were Made!",
+        "type": "Talk",
+        "room": "Cypress",
+        "speakers": [
+          "Sarah Dutkiewicz"
+        ],
+        "track": [
+          "Architecture"
+        ]
+      },
+      {
+        "day": "2026-01-16",
+        "time": "11:00 AM",
+        "duration": "1h",
+        "title": "Fresh Hot CSS Features!",
+        "type": "Talk",
+        "room": "Salon H",
+        "speakers": [
+          "Alex Riviere"
+        ],
+        "track": [
+          "Web/Front-End"
+        ]
+      }
+    ]
+  }
+}

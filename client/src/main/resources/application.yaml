@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: client
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+    mcp:
+      client:
+        name: codemash-mcp-client
+        version: 0.0.1
+        request-timeout: 120s
+        toolcallback:
+          enabled: true
+        streamable-http:
+          connections:
+            codemash:
+              url: http://localhost:8081/mcp

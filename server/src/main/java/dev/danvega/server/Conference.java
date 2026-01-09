@@ -1,4 +1,14 @@
 package dev.danvega.server;
 
-public class Conference {
+import java.util.List;
+
+public record Conference(
+        String name,
+        int year,
+        String[] dates,
+        String location,
+        List<String> tracks,
+        List<String> rooms,
+        List<Session> sessions
+) {
 }
